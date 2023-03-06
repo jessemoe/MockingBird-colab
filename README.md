@@ -1,1 +1,1 @@
-# chatgptoral
+# chatgptoral https://chatgptoral.vercel.app/
